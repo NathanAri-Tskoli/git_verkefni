@@ -1,0 +1,7 @@
+#Git spurningar og svör
+1.
+	A. cd lætur þin á stað sem þú vilt fara á
+	B. lætur þig á heimasvæði
+	C. ls sýnir þér inn í möpu
+	D. segir havða möpur maður er í
+	E. mkdir býr til möppu
