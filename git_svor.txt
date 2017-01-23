@@ -15,3 +15,6 @@
 	A. geymir allt sem þæú hefur gert
 	B. setur á git
 	C. þú setur upp á staged 
+4.
+	A.´hun er góð
+	
