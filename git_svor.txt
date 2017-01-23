@@ -11,3 +11,7 @@
 	C. Birtir leiðir sem hafa mismunandi milli vísitölu skrá og núverandi fyrir geranda fremja
 	D. Git-Diff - Sýna breytingar milli skuldbindur, fremja og vinna tré
 	E. Git-stöðva - Switch útibú eða endurheimta vinna tré skrár
+3.
+	A. geymir allt sem þæú hefur gert
+	B. setur á git
+	C. þú setur upp á staged 
