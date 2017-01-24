@@ -24,3 +24,5 @@
 7.	A.	working directory local save þit
 		stage area það sem þú ert buinn að gera en ekki postað
 		Repository net svæði þit
+8.	
+	A. þegar þú vilt hafa margar ólkar tegunir af sama hlutnum
