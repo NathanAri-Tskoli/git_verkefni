@@ -26,3 +26,5 @@
 		Repository net svæði þit
 8.	
 	A. þegar þú vilt hafa margar ólkar tegunir af sama hlutnum
+9.
+	A. Það var hann	Linus Torvalds
