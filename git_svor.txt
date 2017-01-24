@@ -16,5 +16,6 @@
 	B. setur á git
 	C. þú setur upp á staged 
 4.
-	A.´hun er góð
+	A.það er source control
+	
 	
