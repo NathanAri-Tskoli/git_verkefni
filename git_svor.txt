@@ -17,5 +17,6 @@
 	C. þú setur upp á staged 
 4.
 	A.það er source control
-	
+5. 
+	A.það gerir vinu hja folki létt að deila á milli verkefni og létt að sjá hvað hefur verði gert
 	
