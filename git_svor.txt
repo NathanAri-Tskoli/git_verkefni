@@ -21,4 +21,6 @@
 	A.það gerir vinu hja folki létt að deila á milli verkefni og létt að sjá hvað hefur verði gert
 6.
 	A.þér finst að maður þarft að gera svona 10 - 20 min ef maður er að vinba vel svo ef fólk vil sjá hvað þú ert að gera 
-	
+7.	A.	working directory local save þit
+		stage area það sem þú ert buinn að gera en ekki postað
+		Repository net svæði þit
