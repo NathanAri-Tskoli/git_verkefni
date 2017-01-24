@@ -19,4 +19,6 @@
 	A.það er source control
 5. 
 	A.það gerir vinu hja folki létt að deila á milli verkefni og létt að sjá hvað hefur verði gert
+6.
+	A.þér finst að maður þarft að gera svona 10 - 20 min ef maður er að vinba vel svo ef fólk vil sjá hvað þú ert að gera 
 	
